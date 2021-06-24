@@ -1,0 +1,152 @@
+id,tanggal jual,nama customer,kota,provinsi,nama barang,merk,jenis,harga beli,harga jual,jumlah beli
+1,1-5-2018,Tomi Bastian,Surabaya,jawa timur,lampu depan,fdr,accessories,10000,15000,1
+2,1-6-2018,Achmad Faiz,Surabaya,jawa timur,lampu belakang,fdr,accessories,10000,15000,1
+3,1-7-2018,Putra Dimas,Surabaya,jawa timur,kanvas rem,yanmar,rem,12000,16000,1
+4,1-9-2018,Beny Sitanggang,Surabaya,jawa timur,oli mesin,yamalube,mesin,9000,10000,1
+5,1-9-2018,Beny Sitanggang,Surabaya,jawa timur,rantai,castrol,mesin,9000,10000,1
+6,1-10-2018,Rakha Efka,Malang,jawa timur,velg,vrossi,velg,100000,110000,1
+7,1-10-2018,Budi Santoso,Surabaya,jawa timur,velg,vrossi,velg,100000,110000,1
+8,1-12-2018,Andy odang,Jember,jawa timur,ban luar,fdr,ban,10000,10000,1
+9,1-13-2019,Rakha Eka,Surabaya,jawa timur,ban luar,fdr,ban,10000,10000,1
+10,1-14-2019,Samuel Wiliam,Surabaya,jawa timur,ban dalam,fdr,ban,7000,18000,1
+11,1-15-2019,Brayen Corner,Malang,jawa timur,busi,tdr,mesin,9000,12000,1
+12,1-16-2019,Ana Bela,Surabaya,jawa timur,oli mesin,castrol,mesin,50000,70000,1
+13,1-17-2019,Reynaldi Ahmad,Sidoarjo,jawa timur,spion,yamaha,accessories,12000,17000,1
+14,1-18-2019,Afrian,Surabaya,jawa timur,skok,honda,skok,90000,100000,1
+15,1-19-2019,Rafli Ihza,Surabaya,jawa timur,ban dalam,fdr,ban,10000,120000,1
+16,1-20-2019,Gerardy,Sidoarjo,jawa timur,jok motor,custom,accessories,10000,12000,1
+17,1-21-2019,Jasmine Meca,Gresik,jawa timur,jok motor,custom,accessories,10000,12000,1
+18,1-22-2019,Tedy Syach,Surabaya,jawa timur,hangrip,rcb,accessories,40000,90000,1
+19,1-22-2019,Bratha M,Surabaya,jawa timur,tangki,yamaha,mesin,140000,190000,1
+20,1-24-2019,Septian David,Surabaya,jawa timur,lampu sen,yamaha,accessories,12000,18000,1
+21,1-25-2019,Rajib Dani,Surabaya,jawa timur,ruji,honda,ban,100000,130000,1
+22,1-25-2019,Reza Priy,Surabaya,jawa timur,lampu belakang,fdr,accessories,9000,190000,1
+23,1-27-2019,Dhaka aziz,Sidoarjo,jawa timur,oli mesin,honda,mesin,20000,19000,1
+24,1-28-2019,yusuf riyanto,Surabaya,jawa timur,oli mesin,honda,mesin,80000,18000,1
+25,1-29-2019,Radistia Dwi,Surabaya,jawa timur,bagasi motor,honda,accessories,170000,190000,1
+26,1-31-2019,Nurul Huda,Malang,jawa timur,jok motor,custom,accessories,85000,87000,1
+27,1-31-2019,Raaynaldi Yudis,Surabaya,jawa timur,jok motor,custom,accessories,67000,98000,1
+28,2-2-2019,radistia Dwi,Surabaya,jawa timur,rantai,yamaha,mesin,12000,13000,1
+29,2-2-2019,Achmad Yusril,Malang,jawa timur,velg,yanmar,ban,13000,14000,1
+30,2-3-2019,Yanuar Fitrian,Surabaya,jawa timur,ban,yanmar,ban,16000,190000,1
+31,2-5-2019,Larasati Dwi,Gresik,jawa timur,lampu belakang,tdr,accessories,15000,12200,1
+32,2-5-2019,Larasati Dwi,Gresik,jawa timur,air aki,yuasa,aki,14000,15000,1
+33,2-6-2019,Ningsih,Surabaya,jawa timur,air aki,yuasa,aki,14000,19000,1
+34,2-6-2019,Radistia Dwi,Surabaya,jawa timur,aki,yuasa,aki,18000,19000,1
+35,2-7-2019,Achmad Yusril,Surabaya,jawa timur,ruji,fdr,ban,20000,21000,1
+36,2-8-2019,ana bela,Surabaya,jawa timur,skok,honda,skok,29000,31000,1
+37,2-10-2019,Afrian,Surabaya,jawa timur,spion,honda,accessories,89000,91000,1
+38,2-11-2019,Raaynaldi Yudis,Surabaya,jawa timur,air aki,yuasa,aki,87000,90000,1
+39,2-12-2019,Radistia Dwi,Surabaya,jawa timur,aki,yuasa,aki,71000,78000,1
+40,2-13-2018,dhaka aziz,Surabaya,jawa timur,rantai,suzuki,mesin,87000,89000,1
+41,2-13-2018,reza Priy,Surabaya,jawa timur,aki,yuasa,aki,76000,76000,1
+42,2-15-2018,odi rudi,Surabaya,jawa timur,oli mesin,suzuki,mesin,87000,88000,1
+43,2-16-2018,gerardy,Surabaya,jawa timur,rantai,suzuki,mesin,75000,76000,1
+44,2-17-2019,Rakha Eka,Surabaya,jawa timur,ruji,yamaha,ban,73000,78000,1
+45,2-18-2019,bratha M,Surabaya,jawa timur,skok,tdr,skok,9000,10000,1
+46,2-19-2018,Ningsih,Surabaya,jawa timur,tangi,custom,accessories,11000,13000,1
+47,2-20-2018,rajib Dani,Surabaya,jawa timur,aki,yuasa,aki,17000,150000,1
+48,2-21-2018,Larasati Dwi,Surabaya,jawa timur,lampu belakang,custom,accessories,18000,19000,1
+49,2-22-2018,ana bela,Surabaya,jawa timur,ban dalam,fdr,ban,8600,10000,1
+50,2-23-2019,rafli Ihza,Surabaya,jawa timur,ban luar,fdr,ban,1700,2000,1
+51,2-24-2018,Yanuar Fitrian,Surabaya,jawa timur,lampu depan,kawasaki,accessories,1701,2001,1
+52,2-25-2019,yusuf riyanto,Surabaya,jawa timur,lampu depan,kawasaki,accessories,1702,2002,1
+53,2-26-2019,Afrian,Surabaya,jawa timur,lampu depan,kawasaki,accessories,1703,2003,1
+54,2-27-2019,ana bela,Surabaya,jawa timur,ruji],tdr,ban,1704,2004,1
+55,2-28-2019,rudi juli,Surabaya,jawa timur,skok,kawasaki,skok,1705,2005,1
+56,3-1-2019,rud,Surabaya,jawa timur,aki,yuasa,aki,1706,2006,1
+57,3-2-2019,Jasmine Meca,Surabaya,jawa timur,velg,kawasaki,ban,1707,2007,1
+58,3-3-2019,jasmine Meca,Gresik,jawa timur,rem,yanmar,mesin,1708,2008,1
+59,3-4-2019,Jasmine Meca,Surabaya,jawa timur,aki,yuasa,aki,1709,2009,1
+60,3-5-2019,Nurul Huda,Sidoarjo,jawa timur,bagasi motor,piaggio,accessories,1710,2010,1
+61,3-6-2019,Nurul Huda,Surabaya,jawa timur,bagasi motor,piaggio,accessories,1711,2011,1
+62,3-7-2019,Afrian,Sidoarjo,jawa timur,kanvas rem,rossi,mesin,1712,2012,1
+63,3-8-2019,Afrian,Surabaya,jawa timur,jok motor,custom,accessories,1713,2013,1
+64,3-9-2019,Aditya Taufiq,Surabaya,jawa timur,aki,yuasa,aki,1714,2014,1
+65,3-10-2019,Tedy Syach,Gresik,jawa timur,air aki,yuasa,aki,1715,2015,1
+66,3-11-2019,bratha M,Surabaya,jawa timur,ban dalam,fdr,ban,1716,2016,1
+67,3-12-2019,rafli Ihza,Surabaya,jawa timur,ban dalam,fdr,ban,1717,2017,1
+68,3-3-2019,ana bela,Malang,jawa timur,skok,fdr,skok,1718,2018,1
+69,3-14-2019,bratha M,Surabaya,jawa timur,skok,fdr,skok,1719,2019,1
+70,3-15-2019,raaynaldi Yudis,Surabaya,jawa timur,ruji,honda,ban,1720,2020,1
+71,3-16-2019,Afrian,Sidoarjo,jawa timur,bagasi motor,yamaha,accessories,1721,2021,1
+72,3-17-2019,gerardy,Surabaya,jawa timur,ruji,yamaha,ban,1722,2022,1
+73,3-18-2019,Nurul Huda,Surabaya,jawa timur,tangki,yamaha,accessories,1723,2023,1
+74,3-19-2019,rudi juli,Malang,jawa timur,rantai,fdr,mesin,1724,2024,1
+75,3-20-2019,reza Priy,Surabaya,jawa timur,skok,rossi,skok,1725,2025,1
+76,1-9-2020,dhaka aziz,Surabaya,jawa timur,bagasi motor,yanmar,accessories,1726,2026,1
+77,1-10-2020,radistia Dwi,Surabaya,jawa timur,aki,yuasa,aki,1727,2027,1
+78,1-11-2020,yusuf riyanto,Surabaya,jawa timur,air aki,yuasa,aki,1728,2028,1
+79,1-12-2020,raaynaldi Yudis,Surabaya,jawa timur,ban dalam,fdr,ban,1729,2029,1
+80,1-13-2018,rafli Ihza,Surabaya,jawa timur,lampu depan,suzuki,accessories,1730,2030,1
+81,1-14-2018,Aditya Taufiq,Surabaya,jawa timur,lampu belakang,suzuki,accessories,1731,2031,1
+82,1-15-2018,radistia Dwi,Surabaya,jawa timur,air aki,yuasa,aki,1732,2032,1
+83,1-15-2020,ade,Surabaya,jawa timur,jok motor,custom,accessories,1733,2033,1
+84,1-17-2020,odi rudi,Surabaya,jawa timur,ruji,kawasaki,ban,60000,75000,1
+85,1-18-2020,Carlos Nex,Surabaya,jawa timur,kanvas rem,yanmar,rem,18000,20000,1
+86,1-19-2020,Boyen S,Surabaya,jawa timur,bensin,pertalite,bensin,9000,10000,1
+87,1-20-2018,Dzikir,Surabaya,jawa timur,oli mesin,honda,mesin,48000,50000,1
+88,1-21-2020,yusuf riyanto,Malang,jawa timur,oli mesin,kawasaki,mesin,48000,50000,1
+89,1-21-2020,reza Priy,Surabaya,jawa timur,bensin,pertalite,bensin,9000,10000,1
+90,1-23-2020,yusuf riyanto,Surabaya,jawa timur,bensin,pertalite,bensin,9000,10000,1
+91,1-24-2018,Samuel Nex,Sidoarjo,jawa timur,ruji,yanmar,ban,60000,75000,1
+92,1-25-2018,Brando Sam,Surabaya,jawa timur,ruji,yanmar,ban,60000,75000,1
+93,1-26-2020,Boby Sullivan,Malang,jawa timur,ban luar,fdr,ban,180000,200000,1
+94,1-27-2020,Ken Arok,Surabaya,jawa timur,ban dalam,tdr,ban,180000,200000,1
+95,1-27-2020,Yoji Daffa,Surabaya,jawa timur,bagasi motor,honda,accessories,48000,50000,1
+96,1-29-2020,Agatha M,Gresik,jawa timur,oli mesin,castrol,mesin,48000,50000,1
+97,1-30-2018,Briana Simorangkir,Surabaya,jawa timur,skok,kawasaki,skok,480000,500000,1
+98,1-30-2020,Jessica Dea,Surabaya,jawa timur,skok,kawasaki,skok,480000,500000,1
+99,2-1-2020,Ana bela,Gresik,jawa timur,skok,kawasaki,skok,480000,500000,1
+100,2-2-2020,Rosa putri,Surabaya,jawa timur,skok,kawasaki,skok,480000,500000,1
+101,2-3-2020,Enal maulana,Gresik,jawa timur,spion click,honda,accessories,40000,50000,1
+102,2-2-2018,Aziz choirudin,Surabaya,jawa timur,lampu depan,kawasaki,accessories,1701,2001,1
+103,2-5-2020,Anang maruf,Sidoarjo,jawa timur,lampu depan,kawasaki,accessories,1702,2002,1
+104,2-6-2020,Anang maruf,Surabaya,jawa timur,lampu depan,kawasaki,accessories,1703,2003,1
+105,2-7-2020,Rangga anggara,Surabaya,jawa timur,ruji,tdr,ban,1704,2004,1
+106,2-8-2020,Dina dwi,Surabaya,jawa timur,skok,kawasaki,skok,1705,2005,1
+107,2-9-2020,Oky kurniawan,Surabaya,jawa timur,aki,yuasa,aki,1706,2006,1
+108,2-10-2020,Oky kurniawan,Surabaya,jawa timur,velg,kawasaki,ban,1707,2007,1
+109,2-10-2020,Moch Cahyono,Surabaya,jawa timur,rem,yanmar,mesin,1708,2008,1
+110,2-12-2020,Ilham nurdiansa,Surabaya,jawa timur,aki,yuasa,aki,1709,2009,1
+111,2-13-2020,Syafri,Surabaya,jawa timur,bagasi motor,piaggio,accessories,1710,2010,1
+112,2-13-2020,Rizal andika,Surabaya,jawa timur,bagasi motor,piaggio,accessories,1711,2011,1
+113,2-15-2020,Ilham Yanta,Gresik,jawa timur,kanvas rem,rossi,mesin,1712,2012,1
+114,2-16-2020,Ilham Yanta,Gresik,jawa timur,jok motor,custom,accessories,1713,2013,1
+115,2-17-2020,Anggie pradana,Surabaya,jawa timur,aki,yuasa,aki,1714,2014,1
+116,2-18-2020,Ardian,Surabaya,jawa timur,air aki,yuasa,aki,1715,2015,1
+117,2-19-2020,Arga ,Surabaya,jawa timur,ban dalam,fdr,ban,1716,2016,1
+118,2-20-2020,Reynaldi Sofi,Surabaya,jawa timur,ban dalam,fdr,ban,1717,2017,1
+119,2-21-2020,Isa bela,Malang,jawa timur,skok,fdr,skok,1718,2018,1
+120,2-22-2020,Samuel wiliam,Surabaya,jawa timur,skok,fdr,skok,1719,2019,1
+121,2-23-2020,Yudish arda,Surabaya,jawa timur,ruji,honda,ban,1720,2020,1
+122,2-24-2020,Vicha aries,Surabaya,jawa timur,bagasi motor,yamaha,accessories,1721,2021,1
+123,2-25-2020,Vicha aries,Surabaya,jawa timur,ruji,yamaha,ban,1722,2022,1
+124,2-26-2020,Nurul Huda,Gresik,jawa timur,tangki,yamaha,accessories,1723,2023,1
+125,2-27-2020,Trysna Ardi,Surabaya,jawa timur,rantai,fdr,mesin,1724,2024,1
+126,2-28-2020,Alif ,Surabaya,jawa timur,skok,rossi,skok,1725,2025,1
+127,2-29-2020,Reza putra,Surabaya,jawa timur,bagasi motor,yanmar,accessories,1726,2026,1
+128,3-1-2020,Rangga putra,Gresik,jawa timur,aki,yuasa,aki,1727,2027,1
+129,3-2-2020,Siva ,Surabaya,jawa timur,air aki,yuasa,aki,1728,2028,1
+130,3-3-2020,Mahmud edi,Sidoarjo,jawa timur,spion click,honda,accessories,40000,50000,1
+131,3-4-2020,Rendy irwan,Surabaya,jawa timur,roller,ktc,mesin,50000,60000,1
+132,3-5-2020,Bruno,Gresik,jawa timur,vanbelt,daytona,mesin,90000,100000,1
+133,3-6-2020,Soya ,Surabaya,jawa timur,Velg,Rcb,ban,500000,550000,1
+134,3-7-2020,Andi dwi,Sidoarjo,jawa timur,Master rem,Rcb,rem,300000,320000,1
+135,3-8-2020,Febry ,Surabaya,jawa timur,ruji,kawasaki,ban,60000,75000,1
+136,3-9-2020,Jesika deajeng,Surabaya,jawa timur,kanvas rem,yanmar,rem,18000,20000,1
+137,3-10-2020,Jery santos,Sidoarjo,jawa timur,bensin,pertalite,bensin,9000,10000,1
+138,3-11-2020,Sofyan adi,Surabaya,jawa timur,oli mesin,honda,mesin,48000,50000,1
+139,3-12-2020,Andik ver,Surabaya,jawa timur,oli mesin,kawasaki,mesin,48000,50000,1
+140,3-13-2020,Aditya warman,Surabaya,jawa timur,bensin,pertalite,bensin,9000,10000,1
+141,3-14-2020,Arifin santos,Surabaya,jawa timur,bensin,pertalite,bensin,9000,10000,1
+142,3-15-2020,Jojo nugroho,Surabaya,jawa timur,ruji,yanmar,ban,60000,75000,1
+143,3-16-2020,Yuni san,Surabaya,jawa timur,ruji,yanmar,ban,60000,75000,1
+144,3-17-2020,Samuel alex,Malang,jawa timur,ban luar,fdr,ban,180000,200000,1
+145,3-18-2020,Ken Arok,Surabaya,jawa timur,ban dalam,tdr,ban,180000,200000,1
+146,3-18-2020,Budi andi,Sidoarjo,jawa timur,bagasi motor,honda,accessories,48000,50000,1
+147,3-20-2020,Budi Setyawan,Surabaya,jawa timur,oli mesin,castrol,mesin,48000,50000,1
+148,3-21-2020,Bayu Setya,Surabaya,jawa timur,skok,kawasaki,skok,480000,500000,1
+149,3-22-2020,Rois rahmad,Gresik,jawa timur,skok,kawasaki,skok,480000,500000,1
+150,3-22-2020,Fiki nur,Surabaya,jawa timur,skok,kawasaki,skok,480000,500000,1
+151,3-24-2020,Rocky Juan,Surabaya,jawa timur,skok,kawasaki,skok,480000,500000,1
